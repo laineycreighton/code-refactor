@@ -4,7 +4,7 @@
 
 ## Description
 
-This project was made to mimic an on-the-job ticket example of refactoring code to make it follow accessibility standards and honor the Scout Rule - meaning leave the code better than it was found. Adjustments were made to the HTML elements along with the cooresponding CSS selectors to "clean" it up without impacting the code's output. Comments were added to all changes to annotate adjustments. Completing this projects teaches that code can have the same outcome by taking many paths, but there is always room for improvement.
+This project was made to mimic an on-the-job ticket example of refactoring code to make it follow accessibility standards and honor the Scout Rule - meaning leave the code better than it was found. Adjustments were made to the HTML elements along with the cooresponding CSS selectors to "clean" it up without impacting the code's output. Comments were added to all changes to annotate adjustments. Completing this project teaches that code can still have the same outcome even if many paths are taken, but there is always room for improvement.
 
 <br>
 
