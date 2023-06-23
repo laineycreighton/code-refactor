@@ -6,6 +6,8 @@
 
 This project was made to mimic an on-the-job ticket example of refactoring code to make it follow accessibility standards and honor the Scout Rule - meaning leave the code better than it was found. Adjustments were made to the HTML elements along with the cooresponding CSS selectors to "clean" it up without impacting the code's output. Comments were added to all changes to annotate adjustments. Completing this project teaches that code can still have the same outcome even if many paths are taken, but there is always room for improvement.
 
+**NOTE: Please note that any code that does not have a comment was not created by the author. Code that is indicated in the comments only have been written by the author. The code source is from a module in the UC Berkley Full Stack Flex Bootcamp. This code includes both HTML and CSS.**
+
 <br>
 
 ## Technology Used
