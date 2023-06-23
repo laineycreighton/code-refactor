@@ -19,7 +19,7 @@ This project was made to mimic an on-the-job ticket example of refactoring code 
 
 ## Deployment
 
-Website URL: * [Horiseon](insert URL here)
+Website URL: * [Horiseon Social Solution Services, Inc.](https://laineycreighton.github.io/code-refactor/)
 
 Navigating to the website URL should present you with the following:
 
