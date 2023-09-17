@@ -12,16 +12,19 @@ This project was made to mimic an on-the-job ticket example of refactoring code 
 
 ## Technology Used
 
-- HTML - used to edit the existing elements.
-- CSS - used to edit the styling for the html elements.
-- Git - used to track edits made to the source code.
-- GitHub - used to host and deploy the repository.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
 ## Deployment
 
-Website URL: * [Horiseon Social Solution Services, Inc.](https://laineycreighton.github.io/code-refactor/)
+Website URL: [Horiseon Social Solution Services, Inc.](https://laineycreighton.github.io/code-refactor/)
 
 Navigating to the website URL should present you with the following:
 
@@ -32,8 +35,6 @@ Navigating to the website URL should present you with the following:
 ## Author Info
 
 ### Lainey Creighton
-
-*Currently a student in the UC Berkley Full Stack Flex Bootcamp. Contact Below:* 
 
 * [LinkedIn](https://www.linkedin.com/in/lainey-creighton/)
 * [Github](https://github.com/laineycreighton)
